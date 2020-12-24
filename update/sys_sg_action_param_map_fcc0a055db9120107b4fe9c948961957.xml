@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create New">ccad9051db9120107b4fe9c948961908</button>
+        <item_parameter display_value="When needed">4e8c549ddb5120107b4fe9c948961997</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-24 06:15:01</sys_created_on>
+        <sys_id>fcc0a055db9120107b4fe9c948961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4e8c549ddb5120107b4fe9c948961997</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_fcc0a055db9120107b4fe9c948961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-24 06:15:01</sys_updated_on>
+        <ui_parameter display_value="When needed">91dfd415db9120107b4fe9c94896199d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
